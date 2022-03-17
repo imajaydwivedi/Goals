@@ -9,6 +9,9 @@
 
 ## Q2 - Microsoft Excel - Beginner to Advanced
 1. [Udemy - Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/)
+2. Creating Slack Bot
+3. Python automation to Send Slack Alerts
+4. PowerShell automation to Send Slack Alerts
 
 
 ## Q3 -  Docker and Kubernetes
