@@ -12,6 +12,8 @@
 2. Creating Slack Bot
 3. Python automation to Send Slack Alerts
 4. PowerShell automation to Send Slack Alerts
+5. POC on DBA Dash
+6. Re-architecture GitHub project [SqlServer-Baselining-Grafana](https://github.com/imajaydwivedi/SqlServer-Baselining-Grafana)
 
 
 ## Q3 -  Docker and Kubernetes
