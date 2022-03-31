@@ -3,8 +3,8 @@
 ## Q1 - Bash Shell Scripting
 
 1. [YouTube - Bash Scripting Full Couse 3 Hours by LinuxHint](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint)
-
 2. [YouTube - The 50 Most Popular Linux & Terminal commands - Full Course for Beginners by FreeCodeCamp.org](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org)
+3. Learning SQL Server Data Tools
 
 
 ## Q2 - Microsoft Excel - Beginner to Advanced
