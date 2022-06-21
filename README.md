@@ -27,8 +27,9 @@
 1. [SqlServer-Baselining-Grafana](https://github.com/imajaydwivedi/SqlServer-Baselining-Grafana/)
 2. [SQLDBATools](https://github.com/imajaydwivedi/SQLDBATools)
 
-## Data Analysis with Python
-1. [FreeCodeCamp - Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+## Python
+1. [Automate Your Life With Python](https://www.udemy.com/course/automate-your-life-with-python/learn/lecture/32342398#overview)
+2. [FreeCodeCamp - Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ## AWS & Azure
 
