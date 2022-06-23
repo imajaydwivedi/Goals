@@ -59,4 +59,8 @@
 19. Common Table Expressions by Joe Sack
 20. Understanding & using DBCC commands
 21. Virtualization
-22. 
+
+
+## Books
+1. [SQL Server Advanced Troubleshooting and Performance Tuning by Dmitri Korotkevitch](https://www.amazon.in/dp/9355422059?psc=1&smid=AP6IZ69K79O66&ref_=chk_typ_imgToDp)
+2. [Advanced Analytics with Transact-SQL: Exploring Hidden Patterns and Rules in Your Data](https://www.amazon.in/Advanced-Analytics-Transact-SQL-Exploring-Patterns/dp/1484283325/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1655991861&sr=8-1)
