@@ -64,3 +64,6 @@
 ## Books
 1. [SQL Server Advanced Troubleshooting and Performance Tuning by Dmitri Korotkevitch](https://www.amazon.in/dp/9355422059?psc=1&smid=AP6IZ69K79O66&ref_=chk_typ_imgToDp)
 2. [Advanced Analytics with Transact-SQL: Exploring Hidden Patterns and Rules in Your Data](https://www.amazon.in/Advanced-Analytics-Transact-SQL-Exploring-Patterns/dp/1484283325/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1655991861&sr=8-1)
+3. [Pro SQL Server Internals by Dmitri Korotkevitch](https://learning.oreilly.com/library/view/pro-sql-server/9781484219645/)
+4. [Expert SQL Server In-Memory OLTP by Dmitri Korotkevitch](https://learning.oreilly.com/library/view/expert-sql-server/9781484211366/)
+5. 
