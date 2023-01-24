@@ -26,7 +26,7 @@
 
 ## Python
 1. [Automate Your Life With Python](https://www.udemy.com/course/automate-your-life-with-python/learn/lecture/32342398#overview)
-2. 
+2. [Ansible]()
 
 ## SQLSkills.com
 1. [IEVLT](https://www.sqlskills.com/sql-server-training/ievlt/)
