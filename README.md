@@ -3,7 +3,7 @@
 2. [SQLMonitor - Alert Engine Using SQLServer](https://github.com/imajaydwivedi/SQLMonitor/issues/10)
 3. [SQLMonitor - Alert Engine Using PostgreSQL](https://github.com/imajaydwivedi/SQLMonitor/issues/37)
 4. [SQLMonitor - Issues](https://github.com/imajaydwivedi/SQLMonitor/issues)
-5. [Pros & Cons of SQLServer 2022](2024/Pros-Cons-SQLServer2022.md)
+5. [Pros & Cons of SQLServer 2022](Yearly-Track-Record/2024/Pros-Cons-SQLServer2022.md)
 6. [Learn PostgreSQL by Luca Ferrari](https://www.packtpub.com/product/learn-postgresql-second-edition/9781837635641)
 7. [Make Epic Money](https://www.makeepicmoney.com/)
 
